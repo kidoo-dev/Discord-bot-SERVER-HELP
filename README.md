@@ -1,2 +1,3 @@
 # Discord-bot-SERVER-HELP
-Discord bot | SERVER HELP
+
+Данный дискоррд бот был создан для помощи в управлении сервером дс и серверами Rage:mp Alt:V
