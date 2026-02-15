@@ -30,7 +30,7 @@
 
 ### 2. Установи зависимости
 ```bash
-cd dsbot
+cd SERVER HELP
 pip install -r requirements.txt
 ```
 
@@ -74,3 +74,4 @@ dsbot/
 ├── requirements.txt    # Зависимости
 └── README.md           # Этот файл
 ```
+
