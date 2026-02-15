@@ -1,0 +1,26 @@
+{
+  "1429879589408210976": {
+    "settings": {
+      "color": "5865F2",
+      "log_channel": null,
+      "status_channel": null,
+      "welcome_channel": null,
+      "welcome_message": "Добро пожаловать на сервер!, {user}! ",
+      "autorole": null
+    },
+    "status": {
+      "state": "online",
+      "reason": "—",
+      "estimated_time": "—",
+      "additional_info": "—",
+      "updated_by": "shameef",
+      "updated_at": "14.02.2026 19:41"
+    },
+    "warns": {},
+    "tickets": {
+      "counter": 0,
+      "category": null
+    },
+    "notes": []
+  }
+}
